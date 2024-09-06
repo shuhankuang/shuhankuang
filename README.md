@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Think Out of Box!
 <!--
 **shuhankuang/shuhankuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
